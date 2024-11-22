@@ -66,7 +66,7 @@ O projeto está organizado nas seguintes camadas:
 
 ### **Pré-requisitos**
 
-- **.NET 6 SDK** instalado
+- **.NET 8 SDK** instalado
 - Acesso ao Banco de Dados Oracle
 - **Visual Studio 2022** ou IDE compatível
 - **Git**
