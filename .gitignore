@@ -1,0 +1,54 @@
+# Pastas de build e dependências
+**/bin/
+**/obj/
+**/artifacts/
+
+# Arquivos temporários do Visual Studio
+.vs
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuração do Visual Studio Code
+.vscode/
+
+# Logs e caches
+*.log
+*.tlog
+*.tmp
+*.pidb
+*.cache
+TestResults/
+
+# Arquivos de migração do EF Core gerados automaticamente
+**/Migrations/
+
+# Configuração do Rider (JetBrains)
+.idea/
+
+# Arquivos locais e de backup
+*.swp
+*.bak
+*.backup
+*~
+*.orig
+
+# Configurações de publicação e pacotes
+*.pubxml
+*.pubxml.user
+*.publish.xml
+*.dbmdl
+
+# Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+project.lock.json
+project.fragment.lock.json
+.nuget/
+
+# Dependências geradas automaticamente
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
