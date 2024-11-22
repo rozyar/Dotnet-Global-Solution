@@ -76,7 +76,7 @@ O projeto está organizado nas seguintes camadas:
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/<seu-repositorio>/SolarPanelCalculatorApi.git
+   git clone https://github.com/rozyar/Dotnet-Global-Solution
    ```
 
 2. **Configure o Banco de Dados**
