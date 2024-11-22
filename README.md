@@ -28,7 +28,7 @@ Este projeto é uma API para calcular painéis solares, desenvolvida em .NET Cor
 
 ## **Tecnologias Utilizadas**
 
-- **.NET Core 6**
+- **.NET Core 8**
 - **C#**
 - **Entity Framework Core**
 - **Banco de Dados Oracle**
