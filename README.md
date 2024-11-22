@@ -167,7 +167,3 @@ dotnet test
 ### **Uso de OpenAI LLM**
 
 Este projeto utiliza o modelo GPT-3.5-turbo da OpenAI para realizar cálculos inteligentes sobre o número de painéis solares necessários. Esta decisão foi tomada para fornecer uma resposta mais dinâmica e em linguagem natural aos usuários. Essa abordagem substitui o uso do UML.NET conforme especificado nos requisitos.
-
----
-
-Este README deve ser colocado na raiz principal do projeto, no mesmo nível do arquivo `Program.cs`.
